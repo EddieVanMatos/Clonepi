@@ -10,4 +10,8 @@ public class CloneprofApplication {
 		SpringApplication.run(CloneprofApplication.class, args);
 	}
 
+	public static void main(String[] args) {
+		SpringApplication.run(CloneprofApplication.class, args);
+	}
+
 }
